@@ -1,7 +1,11 @@
 # PixivDowload
 PixivDowload
 
-目前已知问题：
+### 编译/打开需要支持库
+
+ExUI支持库
+
+### 目前已知问题：
 
 1、多张图片无法下载
 
